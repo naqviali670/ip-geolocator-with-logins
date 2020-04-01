@@ -9,7 +9,7 @@
 	<distributionManagement>
 		<site>
 			<id>shrek</id>
-			<url>scp://@shrek.unideb.hu:/home/muhammadhassanraza/public_html/${project.artifactId}</url>
+			<url>scp://@shrek.unideb.hu:2222/home/naqviali670/public_html/${project.artifactId}</url>
 		</site>
 	</distributionManagement>
 	<developers>
